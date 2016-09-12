@@ -1,2 +1,2 @@
 # tutorial
-Playground for the GitHub training manual
+Playground for the GitHub training manual.
